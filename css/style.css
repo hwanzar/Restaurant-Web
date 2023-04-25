@@ -1,0 +1,64 @@
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+body {
+    font-family: "Open Sans", sans-serif;
+    /* background: #0c0b09; */
+
+    color: #121212;
+}
+
+a {
+    color: #cda45e;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #d9ba85;
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Playfair Display", serif;
+}
+
+
+/*--------------------------------------------------------------
+# Back to top
+--------------------------------------------------------------*/
+
+/* .back-to-top {
+    position: fixed;
+    visibility: visible;
+    opacity: 0;
+    right: 15px; 
+    bottom: 15px;
+    width: 45px;
+    height: 45px;
+    border: 2px solid #cda45e;
+    border-radius: 50%;
+    z-index: 1000;
+    transition: all 0.4s;
+}
+
+.back-to-top:hover {
+    background-color: #cda45e;
+    color: white;
+} */
+
+/*--------------------------------------------------------------
+# FOOTER
+--------------------------------------------------------------*/
+
+/* footer {
+    background-color: #E4E8E9;
+} */
+
+.About-us {
+    visibility: visible;
+}
